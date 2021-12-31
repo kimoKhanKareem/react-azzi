@@ -18,7 +18,7 @@ const Azzi = () => {
                             <p>
                                 Donec vitae purus nunc. Morbi faucibus erat sit amet congue mattis. Nullam frin-gilla faucibus urna, id dapibus erat iaculis ut. Integer ac sem.
                             </p>
-                            <img src="/img/cards.png" alt="..img" />
+                            <img src="img/cards.png" alt="..img" />
                         </AboutSe>
                     </Col>
                     <Col lg={3}>
