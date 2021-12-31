@@ -1,0 +1,179 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "image": "img/product/1.jpg",
+            "title": "Flamboyant",
+            "price": 35.60
+        },
+        {
+            "id" : 2,
+            "image": "img/product/2.jpg",
+            "title": "Flamboyant ",
+            "price": 28.90
+        },
+        {
+            "id" : 3,
+            "image": "img/product/3.jpg",
+            "title": "Flamboyant",
+            "price": 38.80
+        },
+        {
+            "id" : 4,
+            "image": "img/product/4.jpg",
+            "title": "Flamboyant",
+            "price": 36.40
+        },
+        {
+            "id" : 5,
+            "image": "img/product/5.jpg",
+            "title": "Flamboyant",
+            "price": 32.80
+        },
+        {
+            "id" : 6,
+            "image": "img/product/6.jpg",
+            "title": "Flamboyant",
+            "price": 39.80
+        },
+        {
+            "id" : 7,
+            "image": "img/product/7.jpg",
+            "title": "Flamboyant",
+            "price": 40.80
+        }
+    ],
+    "best" : [
+        {
+            "id" : 1,
+            "image": "img/2/1.webp"
+        },
+        {
+            "id" : 2,
+            "image": "img/2/2.webp"
+        },
+        {
+            "id" : 3,
+            "image": "img/2/3.webp"
+        },
+        {
+            "id" : 5,
+            "image": "img/2/5.webp"
+        },
+        {
+            "id" : 6,
+            "image": "img/2/6.webp"
+        },
+        {
+            "id" : 7,
+            "image": "img/2/7.webp"
+        },
+        {
+            "id" : 8,
+            "image": "img/2/8.webp"
+        },
+        {
+            "id" : 9,
+            "image": "img/2/9.webp"
+        }
+    ],
+    "sallery" : [
+        {
+            "id" : 1,
+            "image": "img/product/1.jpg",
+            "title": "Flamboyant",
+            "price": 35.60
+        },
+        {
+            "id" : 2,
+            "image": "img/product/2.jpg",
+            "title": "Flamboyant ",
+            "price": 28.90
+        },
+        {
+            "id" : 3,
+            "image": "img/product/3.jpg",
+            "title": "Flamboyant",
+            "price": 38.80
+        },
+        {
+            "id" : 4,
+            "image": "img/product/4.jpg",
+            "title": "Flamboyant",
+            "price": 36.40
+        },
+        {
+            "id" : 5,
+            "image": "img/product/5.jpg",
+            "title": "Flamboyant",
+            "price": 32.80
+        },
+        {
+            "id" : 6,
+            "image": "img/product/6.jpg",
+            "title": "Flamboyant",
+            "price": 39.80
+        },
+        {
+            "id" : 7,
+            "image": "img/product/7.jpg",
+            "title": "Flamboyant",
+            "price": 40.80
+        },
+        {
+            "id" : 8,
+            "image": "img/product/2.jpg",
+            "title": "Flamboyant ",
+            "price": 28.90
+        },
+        {
+            "id" : 9,
+            "image": "img/2/2.webp",
+            "title": "Flamboyant",
+            "price": 42.80
+        },
+        {
+            "id" : 10,
+            "image": "img/2/3.webp",
+            "title": "Flamboyant",
+            "price": 30.80
+        },
+        {
+            "id" : 11,
+            "image": "img/2/5.webp",
+            "title": "Flamboyant",
+            "price": 50.80
+        },
+        {
+            "id" : 12,
+            "image": "img/2/6.webp",
+            "title": "Flamboyant",
+            "price": 58.80
+        },
+        {
+            "id" : 13,
+            "image": "img/2/7.webp",
+            "title": "Flamboyant",
+            "price": 45.80
+        },
+        {
+            "id" : 14,
+            "image": "img/2/8.webp",
+            "title": "Flamboyant",
+            "price": 48.80
+        },
+        {
+            "id" : 15,
+            "image": "img/2/9.webp",
+            "title": "Flamboyant",
+            "price": 40.80
+        },
+        {
+            "id" : 16,
+            "image": "img/2/1.webp",
+            "title": "Flamboyant",
+            "price": 49.80
+
+        }
+    ]
+}
